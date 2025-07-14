@@ -28,7 +28,7 @@ This project's genesis came from one single need: using _one_ language to spin u
 
 ## License & Copyright
 
-Copyright LVRZ LLC https://www.lvrz.org
+Copyright LVRZ LLC https://www.lvrz.org  
 Copyright Sensors & Signals LLC https://www.snstac.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
